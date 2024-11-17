@@ -4,7 +4,7 @@
   "description": "CLI to create a new Mitosis project from a template.",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
-    "cross-spawn": "^7.0.3"
+    "cross-spawn": "^7.0.5"
   },
   "bin": "./script.cjs",
   "files": [
