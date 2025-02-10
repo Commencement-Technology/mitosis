@@ -37,7 +37,7 @@
     "@nrwl/nx-cloud": "15.0.2",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "@typescript-eslint/parser": "^6.13.1",
-    "esbuild": "0.19.10",
+    "esbuild": "0.25.0",
     "esbuild-register": "3.3.2",
     "eslint": "^7.11.0",
     "eslint-plugin-unused-imports": "^2.0.0",
